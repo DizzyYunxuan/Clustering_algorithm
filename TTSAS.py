@@ -1,4 +1,4 @@
-from clustering import *
+from util import *
 
 
 def TTSAS(x_list, t_hold1, t_hold2, maxNumClass):
